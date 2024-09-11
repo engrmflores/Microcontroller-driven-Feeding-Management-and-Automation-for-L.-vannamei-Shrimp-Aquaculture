@@ -1,4 +1,4 @@
-# Microcontroller driven Feeding Management and Automation for L. vannamei Shrimp Aquaculture
+# Microcontroller-driven Feeding Management and Automation for L. vannamei Shrimp Aquaculture
 
 Shrimp is highly valued in the seafood industry by many people worldwide. 
 
